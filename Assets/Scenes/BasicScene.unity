@@ -4508,7 +4508,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1037400374}
+  - {fileID: 7292031297180258715}
   - {fileID: 1920144992}
   - {fileID: 1431176698}
   - {fileID: 723995699}
@@ -5126,11 +5126,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ae4a5c03cc9dee4cb8e27fb853d5b4a, type: 3}
---- !u!4 &1037400374 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 681064402842012060, guid: 4502030a53ee23c4ba6602eb65b8b338, type: 3}
-  m_PrefabInstance: {fileID: 7800761921828427783}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1060701408 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5841398549513432751, guid: e27a349d8fac6b74d9aeddc95b3a0d19, type: 3}
@@ -11944,6 +11939,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99122c0ad9752f844b860e2a2991eb61, type: 3}
+--- !u!4 &7292031297180258715 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 681064402842012060, guid: 4502030a53ee23c4ba6602eb65b8b338, type: 3}
+  m_PrefabInstance: {fileID: 7800761921828427783}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7800761921828427783
 PrefabInstance:
   m_ObjectHideFlags: 0

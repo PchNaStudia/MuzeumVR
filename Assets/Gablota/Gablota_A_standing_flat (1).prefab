@@ -48,26 +48,82 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6192892581340932599, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_TagString
+      value: Glass
+      objectReference: {fileID: 0}
+    - target: {fileID: -6135510316285592156, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6135510316285592156, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.042999998
+      objectReference: {fileID: 0}
     - target: {fileID: -6060075622823765721, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 978bafb761c52c8409d882f7b06d46dc, type: 2}
+    - target: {fileID: -4834011171991372035, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4834011171991372035, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.042999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 101103557259392816, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 101103557259392816, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.042999998
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: m_Name
       value: Gablota_A_standing_flat (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1411609074598917875, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.043
       objectReference: {fileID: 0}
     - target: {fileID: 3000569613606083951, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 978bafb761c52c8409d882f7b06d46dc, type: 2}
+    - target: {fileID: 3692500942516154681, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_TagString
+      value: Glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 4396506032504164206, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4396506032504164206, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.042999998
+      objectReference: {fileID: 0}
     - target: {fileID: 6102449119283152962, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 978bafb761c52c8409d882f7b06d46dc, type: 2}
+    - target: {fileID: 6209451015518670591, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_TagString
+      value: Glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 6928013022931708264, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_TagString
+      value: Glass
+      objectReference: {fileID: 0}
     - target: {fileID: 6946705441681914503, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 978bafb761c52c8409d882f7b06d46dc, type: 2}
+    - target: {fileID: 7295922023181264849, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      propertyPath: m_TagString
+      value: Glass
+      objectReference: {fileID: 0}
     - target: {fileID: 7337148545566854703, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -79,5 +135,55 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 667311010212968174}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9097745235739444342}
   m_SourcePrefab: {fileID: 100100000, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+--- !u!1 &160001876199183142 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bdae23ad25ca768428a20c9db0a214c8, type: 3}
+  m_PrefabInstance: {fileID: 1078921117381602935}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &667311010212968174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160001876199183142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373817ec4d29627429eabdc0f7d0d172, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Gablota.ToggleGlass
+  cutoffDist: 1
+  minDist: 2
+  maxDist: 10
+  centerThreshold: 0.9
+  edgeThreshold: 0.7
+  maxAlpha: 0.5
+--- !u!65 &9097745235739444342
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160001876199183142}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 0.93040293, z: 0.6013837}
+  m_Center: {x: 0, y: 0.47372177, z: 0.0007266998}
