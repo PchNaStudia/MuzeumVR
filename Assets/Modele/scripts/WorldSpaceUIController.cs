@@ -11,7 +11,7 @@ public class WorldSpaceUIController : MonoBehaviour
     [SerializeField] public Sprite icon;
 
     [Header("Visibility Settings")]
-    [SerializeField] private float maxDistance = 2.0f;
+    [SerializeField] private float maxDistance = 1.0f;
     [SerializeField] private float viewAngleLimit = 0.8f;
 
     [Header("UI References(do not change)")]
@@ -36,6 +36,7 @@ public class WorldSpaceUIController : MonoBehaviour
         if (titleText != null) titleText.text = title;
         if (bodyText != null) bodyText.text = body;
         if (profileImage != null && icon != null) profileImage.sprite = icon;
+        else profileImage.enabled = false;
         parentGrabScript = GetComponentInParent<XRGrabInteractable>();
     }
 
